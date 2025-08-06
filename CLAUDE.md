@@ -261,3 +261,97 @@ Main Agent: "Based on the tech-lead's routing, I'll now coordinate the implement
 - FOLLOW the agent routing map exactly - do not improvise
 - USE deep reasoning when coordinating the recommended agents
 - TRUST the tech-lead's expertise in agent selection
+
+---
+
+## AI Development Team Configuration
+*Optimized by team-configurator on 2025-07-31*
+
+### Detected Project Stack
+- **Project Type**: AI Agent Collection Framework
+- **Primary Technologies**: Markdown + YAML agent definitions
+- **Architecture**: Hierarchical 4-tier agent organization (24 total agents)
+- **Key Components**: Orchestrators, Core, Universal, Specialized agents
+
+### Specialist Assignments for This Project
+
+#### Core Development Tasks
+- **Agent Creation & Enhancement** → @documentation-specialist
+  - Writing agent descriptions, system prompts, examples
+  - Creating comprehensive documentation and guides
+  
+- **Agent Validation & Quality** → @code-reviewer
+  - Security reviews of agent prompts and instructions
+  - Consistency checks across agent definitions
+  
+- **Project Analysis & Stack Detection** → @project-analyst
+  - Understanding user projects for agent routing
+  - Technology stack detection and framework analysis
+  
+- **Complex Feature Development** → @tech-lead-orchestrator
+  - Multi-agent workflow coordination
+  - Strategic planning for new agent capabilities
+
+#### Specialized Tasks
+- **Performance & Optimization** → @performance-optimizer
+  - Token usage optimization for agent workflows
+  - Efficiency improvements in orchestration patterns
+  
+- **Codebase Exploration** → @code-archaeologist
+  - Deep analysis of user projects for agent configuration
+  - Legacy system understanding for specialized routing
+
+#### Framework-Agnostic Support
+- **API Design** → @api-architect
+  - Agent communication protocols
+  - Structured return format design
+
+- **Diagram Creation** → @diagram-architect
+  - Technical diagrams across multiple formats (GraphViz, MermaidJS, Excalidraw)
+  - System architecture visualization
+  - Documentation integration workflows
+  
+- **Universal Development** → @backend-developer, @frontend-developer
+  - Framework-agnostic implementation guidance
+  - Cross-platform compatibility patterns
+
+### Recommended Workflows for This Project
+
+#### Creating New Agents
+1. Use @documentation-specialist for agent prompt creation
+2. Use @code-reviewer for security and consistency validation
+3. Use @tech-lead-orchestrator for multi-agent feature planning
+
+#### Analyzing User Projects
+1. Use @project-analyst for technology stack detection
+2. Use @tech-lead-orchestrator for complex routing decisions
+3. Use specialized agents based on detected frameworks
+
+#### Quality Assurance
+1. Use @code-reviewer for all agent modifications
+2. Use @performance-optimizer for workflow efficiency
+3. Use @documentation-specialist for clear usage guidance
+
+### How to Use Your Optimized AI Team
+
+**For agent development:**
+```bash
+claude "Create a new FastAPI specialist agent with comprehensive API development capabilities"
+```
+
+**For project configuration:**
+```bash
+claude "Analyze this React/Node.js project and configure optimal agent routing"
+```
+
+**For quality assurance:**
+```bash
+claude "Review all Django agents for consistency and best practices"
+```
+
+**For documentation:**
+```bash
+claude "Update the README with current agent capabilities and usage examples"
+```
+
+Your specialized AI team is perfectly configured for developing and maintaining this agent collection!
